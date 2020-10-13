@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on 好物</title>
+    <link>http://haowu.insdook.com/tags/test/</link>
+    <description>Recent content in test on 好物</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 13 Oct 2020 11:24:03 +0800</lastBuildDate><atom:link href="http://haowu.insdook.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D11</title>
+      <link>http://haowu.insdook.com/doc/2020/d11/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://haowu.insdook.com/doc/2020/d11/</guid>
+      <description>双11购物清单 </description>
+    </item>
+    
+    <item>
+      <title>Live</title>
+      <link>http://haowu.insdook.com/external/live/</link>
+      <pubDate>Tue, 13 Oct 2020 11:24:03 +0800</pubDate>
+      
+      <guid>http://haowu.insdook.com/external/live/</guid>
+      <description>吃穿住行清单 </description>
+    </item>
+    
+  </channel>
+</rss>
