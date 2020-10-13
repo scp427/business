@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://haowu.insdook.com/doc/2020/d11/</loc>
+    <loc>http://haowu.insdook.com/external/live/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -14,6 +14,11 @@
   
   <url>
     <loc>http://haowu.insdook.com/categories/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://haowu.insdook.com/doc/2020/d11/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,12 +48,12 @@
   </url>
   
   <url>
-    <loc>http://haowu.insdook.com/external/live/</loc>
+    <loc>http://haowu.insdook.com/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://haowu.insdook.com/</loc>
+    <loc>http://haowu.insdook.com/tags/%E7%94%9F%E6%B4%BB%E6%9D%83%E7%9B%8A/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
   
