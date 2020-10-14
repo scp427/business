@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>好物</title>
+    <title>黑盒屋社</title>
     <link>http://haowu.insdook.com/</link>
-    <description>Recent content on 好物</description>
+    <description>Recent content on 黑盒屋社</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://haowu.insdook.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Oct 2020 11:06:04 +0800</lastBuildDate><atom:link href="http://haowu.insdook.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>吃、住、行、玩，我都要！</title>
       <link>http://haowu.insdook.com/external/live/</link>
@@ -25,7 +25,30 @@
     </item>
     
     <item>
-      <title>D11</title>
+      <title>联系我们</title>
+      <link>http://haowu.insdook.com/about/contact/</link>
+      <pubDate>Wed, 14 Oct 2020 11:06:04 +0800</pubDate>
+      
+      <guid>http://haowu.insdook.com/about/contact/</guid>
+      <description> 可以有多种方式联系我们：
+ </description>
+    </item>
+    
+    <item>
+      <title>网站介绍</title>
+      <link>http://haowu.insdook.com/about/intro/</link>
+      <pubDate>Wed, 14 Oct 2020 11:06:00 +0800</pubDate>
+      
+      <guid>http://haowu.insdook.com/about/intro/</guid>
+      <description>这是  黑盒屋社是xxxx
+黑盒屋社是xxxx
+黑盒屋社是xxxx
+黑盒屋社是xxxx
+  12 12 12  </description>
+    </item>
+    
+    <item>
+      <title>双11好物推荐</title>
       <link>http://haowu.insdook.com/doc/2020/d11/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
       

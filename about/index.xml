@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on 黑盒屋社</title>
+    <link>http://haowu.insdook.com/about/</link>
+    <description>Recent content in Abouts on 黑盒屋社</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 14 Oct 2020 11:06:04 +0800</lastBuildDate><atom:link href="http://haowu.insdook.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>联系我们</title>
+      <link>http://haowu.insdook.com/about/contact/</link>
+      <pubDate>Wed, 14 Oct 2020 11:06:04 +0800</pubDate>
+      
+      <guid>http://haowu.insdook.com/about/contact/</guid>
+      <description> 可以有多种方式联系我们：
+ </description>
+    </item>
+    
+    <item>
+      <title>网站介绍</title>
+      <link>http://haowu.insdook.com/about/intro/</link>
+      <pubDate>Wed, 14 Oct 2020 11:06:00 +0800</pubDate>
+      
+      <guid>http://haowu.insdook.com/about/intro/</guid>
+      <description>这是  黑盒屋社是xxxx
+黑盒屋社是xxxx
+黑盒屋社是xxxx
+黑盒屋社是xxxx
+  12 12 12  </description>
+    </item>
+    
+  </channel>
+</rss>
